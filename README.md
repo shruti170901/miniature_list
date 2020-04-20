@@ -2,14 +2,14 @@
 
 ## book list
 1. David M Burton
-2. Kanetkar C++
-3. Kanetkar pointers
+2. Kanetkar C++ <-->
+3. Kanetkar pointers <-->
 
 ## google group
 solve google group assignment trees
 
 ## github 
-1. material pranjalssh
+1. material pranjalssh <++>
 2. Collection solve problems
 
 ## courses
