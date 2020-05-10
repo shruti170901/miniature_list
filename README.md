@@ -9,6 +9,19 @@
 6. started basics of cryptography
 7. started learning data science stuff
 8. spent time outdoors
+9. tried and failed to learn touch typing
+10. finally active on github now
+
+## important stuff
+1. GSOC
+2. Microsoft code fun do
+3. Microsoft Codess
+4. ACM ICPC
+
+## college stuff
+1. working on kgp_hola
+2. thinking of writing a blog
+3. codeclub if they take me
 
 ## book list
 1. David M Burton <-80%->
